@@ -1,0 +1,14 @@
+.Profile_pic200x197 {
+    float: left;
+    padding-right: 3%;
+    max-width: 200px;
+}
+
+ .jumbotron {
+    background: url("../images/test_bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+}
