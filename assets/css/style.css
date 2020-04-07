@@ -1,3 +1,4 @@
+
 .Profile_pic200x197 {
     float: left;
     padding-right: 3%;
@@ -10,5 +11,5 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 600px;
+    height: 100%;
 }
